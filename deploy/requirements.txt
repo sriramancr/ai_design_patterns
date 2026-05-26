@@ -1,0 +1,6 @@
+streamlit
+keyboard
+psutil
+pillow
+prompts
+designpatterns
